@@ -2,12 +2,12 @@
 //Victoria Rodrigues
 //October 14 2014
 //CSE 02
-//Root
+//Roulette
 //
 //  first compile the program
 //      Root.java
 //  run the program
-//      java Root//
+//      java Roulette//
 public class Roulette {
 	public static void main(String[] args) {
 		// Number of times to gamble
